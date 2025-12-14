@@ -1,1 +1,3 @@
-www.ubauci.com
+Type: CNAME
+Name: www
+Content: uba.github.io

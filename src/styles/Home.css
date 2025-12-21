@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap');
+
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {
+    padding-top: 5rem;
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, .8));
+}
+
+.headerText {
+    padding-top: 1.5rem;
+    color: #FFF;
+    text-align: center;
+    font-family: "Anonymous Pro", serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, .4));
+}

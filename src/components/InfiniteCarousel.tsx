@@ -43,7 +43,7 @@ function InfiniteCarousel(){
                     <div key = {i}
                          style={{
                              flexShrink: 0,
-                             width: `${100 / photos.length * 1.5}%`,
+                             width: `${100 / photos.length * 1.6}%`,
                              padding: '80px 60px'
                          }}
                     >{photo}</div>

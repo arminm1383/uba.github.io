@@ -27,12 +27,12 @@ function Home () {
             <motion.div className="hero-section"
             initial = {{opacity: 0}}
             animate = {{opacity: 80}}
-            transition = {{duration: 1}}>
+            transition = {{duration: 2}}>
                 <img src = "/images/UBA_logo.png" alt = "UBA Logo" className = "logo"/>
                 <motion.div className={"textContainer"}
                 initial = {{opacity: 0}}
                 animate = {{opacity: 100}}
-                transition = {{duration: 1}}>
+                transition = {{duration: 2}}>
                     <h1 className="headerText">Undergraduate Business Association</h1>
                     <h1 className="subText">Dedicated to helping students discover
                         their career path & build strong professional skills</h1>

@@ -7,7 +7,7 @@ function Navbar () {
             <ul>
                 <li>
                     <a href={"/"}>
-                        <img src = "/images/Home.png" className={"home-icon"} alt="Home Icon"/>
+                        <img src = "/images/uba_crest.png" className={"home-icon"} alt="Home Icon"/>
                     </a>
                 </li>
                 <li><a href={"/about"} className={"nav-item"}>ABOUT</a></li>

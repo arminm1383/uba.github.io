@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Plantagenet+Cherokee&display=swap');
 
 .hero-section {
-    padding-top: 5rem;
+    padding-top: 3.2rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@
 
 .logo {
     width: 120%;
-    max-width: 500px;
+    max-width: 420px;
     height: auto;
     filter: drop-shadow(8px 1px 4px rgba(0, 0, 0, .8));
 }
@@ -26,9 +26,9 @@
 .headerText {
     padding-top: 3rem;
     color: black;
-    text-align: left;
+    text-align: center;
     font-family: "Plantagenet Cherokee", "Anonymous Pro", serif;
-    font-size: 75px;
+    font-size: 70px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;

@@ -1,10 +1,8 @@
 import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 import "../styles/GetInvolved.css"
 import {useEffect} from "react";
 import paperFilter from "../assets/paper.png";
 import "../styles/Home.css";
-import {useState} from "react"
 
 function GetInvolved() {
     useEffect(() => {

@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import Controller from './Controller.tsx';
 import '../styles/EventScroll.css';
-import {motion, AnimatePresence} from 'motion/react'
+import {motion} from 'motion/react'
 import paperFilter from "../assets/paper.png";
 
 interface Event {

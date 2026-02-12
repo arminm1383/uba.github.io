@@ -1,0 +1,57 @@
+.aboutSection {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    padding: 80px 160px;
+}
+
+.aboutRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+}
+
+.aboutRow.reverse {
+    flex-direction: row-reverse;
+}
+
+.aboutImage {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+    flex-shrink: 0;
+    filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.2));
+}
+
+.aboutText {
+    flex: 1;
+}
+
+.aboutText.right {
+    text-align: right;
+}
+
+.aboutTitle {
+    font-family: "Marker Felt", "Anonymous Pro", serif;
+    font-size: 42px;
+    margin: 0 0 16px 0;
+    border-left: 4px solid black;
+    padding-left: 14px;
+}
+
+.aboutText.right .aboutTitle {
+    border-left: none;
+    border-right: 4px solid black;
+    padding-left: 0;
+    padding-right: 14px;
+}
+
+.aboutBody {
+    font-family: "Anonymous Pro", serif;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+    margin: 0;
+}

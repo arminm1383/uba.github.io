@@ -8,10 +8,10 @@ function InfiniteCarousel(){
     const photos = [
         <img src={"/images/cabin_photo.png"} alt = " " />,
         <img src={"/images/digital_marketing_photo.png"} alt = " " />,
-        <img src={"/images/dinosaur_photo.png"} alt = " " />,
         <img src={"/images/lake_photo.png"} alt = " " />,
-        <img src={"/images/mexican_food_photo.png"} alt = " " />,
-        <img src={"/images/aif_photo.png"} alt = " " />
+        <img src={"/images/aif_photo.png"} alt = " " />,
+        <img src={"/images/accounting_panel_photo.png"} alt = " " />,
+        <img src={"/images/dinosaur_photo.png"} alt = " " />
     ]
 
     const allPhotos = [...photos, ...photos, ...photos];

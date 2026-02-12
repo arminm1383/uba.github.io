@@ -4,7 +4,7 @@ import playback from '../assets/playback.png';
 import rewind from '../assets/rewind.png';
 import fast_forward from '../assets/fast_forward.png';
 
-function Controller( {onNext, onPrevious, onPlay}) {
+function Controller( {onNext, onPrevious, onPlay}: {onNext: () => void, onPrevious: () => void, onPlay: () => void}) {
     return (
         <nav className={"controller"}>
             <ul>

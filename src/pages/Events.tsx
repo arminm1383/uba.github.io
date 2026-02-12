@@ -1,11 +1,12 @@
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import "../styles/Events.css"
+import EventScroll from "../components/EventScroll";
 
 function Events() {
     return (
         <div>
             <Navbar />
+            <EventScroll />
             <Footer />
         </div>
     )

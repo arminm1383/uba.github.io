@@ -78,7 +78,7 @@ function Board() {
                 <div className={"boardContainer"}>
                     <img src={"../images/board_photos/skye_photo.JPG"} alt = " "/>
                     <h1 className = "boardTitle">VP of Marketing</h1>
-                    <h1 className = "boardName">Skye Garces</h1>
+                    <h1 className = "boardName">Skye Charisma Garces</h1>
                 </div>
                 <div className={"boardContainer"}>
                     <img src={"../images/board_photos/keili_photo.JPG"} alt = " "/>

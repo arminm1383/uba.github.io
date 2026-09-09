@@ -44,7 +44,7 @@ function About() {
                 </div>
 
                 <div className="aboutRow reverse">
-                    <img src="/images/company_relations_photo.png" className="aboutImage" alt="Beneficial" />
+                    <img src="/cr_speaking.png" className="aboutImage" alt="Beneficial" />
                     <div className="aboutText right">
                         <h2 className="aboutTitle">Beneficial</h2>
                         <p className="aboutBody">As UCI's oldest general business club, our resources are tailored to UCI's thriving and ever-growing business community. Our goal is to expand professional development skills for student, working firsthand to connect individuals with industry while also working on resume building skills, interview preperation, and business acumen overall.</p>

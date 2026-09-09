@@ -36,7 +36,7 @@ function About() {
             <div className="aboutSection">
 
                 <div className="aboutRow">
-                    <img src="/images/finance_panel_photo.png" className="aboutImage" alt="Unique" />
+                    <img src="/images/celebrate.png" className="aboutImage" alt="Unique" />
                     <div className="aboutText">
                         <h2 className="aboutTitle">Unique</h2>
                         <p className="aboutBody">Committed towards serving the UCI community, The Undergraduate Business Association (UBA) at UCI strives to help students navigate their career journeys in business. Our direct industry experience helps drive students towards navigating UCI and discovering their path. Through our weekly meetings, students can join a network of passionate students eager to broaden their skills.</p>
@@ -44,7 +44,7 @@ function About() {
                 </div>
 
                 <div className="aboutRow reverse">
-                    <img src="/cr_speaking.png" className="aboutImage" alt="Beneficial" />
+                    <img src="/images/cr_speaking.png" className="aboutImage" alt="Beneficial" />
                     <div className="aboutText right">
                         <h2 className="aboutTitle">Beneficial</h2>
                         <p className="aboutBody">As UCI's oldest general business club, our resources are tailored to UCI's thriving and ever-growing business community. Our goal is to expand professional development skills for student, working firsthand to connect individuals with industry while also working on resume building skills, interview preperation, and business acumen overall.</p>

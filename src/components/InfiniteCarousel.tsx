@@ -6,12 +6,12 @@ import {useRef} from "react";
 function InfiniteCarousel(){
 
     const photos = [
-        <img src={"/images/cabin_photo.png"} alt = " " />,
-        <img src={"/images/digital_marketing_photo.png"} alt = " " />,
-        <img src={"/images/lake_photo.png"} alt = " " />,
-        <img src={"/images/aif_photo.png"} alt = " " />,
-        <img src={"/images/accounting_panel_photo.png"} alt = " " />,
-        <img src={"/images/dinosaur_photo.png"} alt = " " />
+        <img src={"/images/carousel_pics/celly.png"} alt = " " />,
+        <img src={"/images/carousel_pics/uboya.png"} alt = " " />,
+        <img src={"/images/carousel_pics/interview_workshop.png"} alt = " " />,
+        <img src={"/images/carousel_pics/group_social.png"} alt = " " />,
+        <img src={"/images/carousel_pics/ubaddiea.png"} alt = " " />,
+        <img src={"/images/carousel_pics/chubby_bunny.png"} alt = " " />
     ]
 
     const allPhotos = [...photos, ...photos, ...photos];

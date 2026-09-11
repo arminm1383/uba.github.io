@@ -84,10 +84,10 @@ function Home () {
                     frontContent={"/images/about_container.png"}
                     cardType={"about"}/>
                 <Cards
-                    frontContent={"/images/events_container.png"}
+                    frontContent={"/images/events_polaroid.png"}
                     cardType={"events"}/>
                 <Cards
-                    frontContent={"/images/get_involved_container.png"}
+                    frontContent={"/images/involved_polaroid.png"}
                     cardType={"get_involved"}/>
             </div>
             <Footer />

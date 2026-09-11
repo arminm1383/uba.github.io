@@ -32,11 +32,13 @@ function EventScroll() {
     const [prevIndex, setPrevIndex] = useState(0);
 
     const eventArray: Event[] = [
-        {name: "Project Managment Workshop", image: '../images/pm_workshop.png', description: "Week 6", alt: "Artwork for Project Management Workshop"},
-        {name: "Good Luck on Midterms!", image: '../images/midterms.png', description: "Week 5", alt: "Artwork for Midterms"},
-        {name: "Accounting Panel", image: '../images/accounting_panel.png', description: "Week 4", alt: "Artwork for Accounting Panel"},
-        {name: "Intro to Sales Panel", image: '../images/sales_panel.png', description: "Week 3", alt: "Artwork for Sales Panel"},
-        {name: "Find Your Career Workshop", image: '../images/career_workshop.png', description: "Week 2", alt: "Artwork for Career Workshop"},
+        {name: "Resume Workshop", image: '../images/flyers/resume_workshop.jpg', description: "Week 8", alt: "Artwork for Resume Workshop"},
+        {name: "Internship Speaker Event", image: '../images/flyers/internship_panel.PNG', description: "Week 7", alt: "Artwork for Internship Panel"},
+        {name: "Restaurant Operations Panel", image: '../images/flyers/guest_speaker.PNG', description: "Week 6", alt: "Artwork for Operations Panel"},
+        {name: "Midterm Study Session", image: '../images/flyers/study_sesh.png', description: "Week 5", alt: "Artwork for Midterm Study Sesh"},
+        {name: "Mock Interview Workshop", image: '../imagesflyers/accounting_panel.png', description: "Week 4", alt: "Artwork for Accounting Panel"},
+        {name: "Collaborative Case Study", image: '../images/flyers/case.PNG', description: "Week 3", alt: "Artwork for Case Study"},
+        {name: "Spring Social", image: '../images/flyers/spring_social.PNG', description: "Week 2", alt: "Artwork for Spring Social"},
     ]
 
     const visibleCards = [

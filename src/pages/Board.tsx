@@ -33,10 +33,10 @@ function Board() {
     return (
         <div>
             <Navbar />
-            <h1 className = {"header"}>Our 2025 - 2026 Executive Board</h1>
+            <h1 className = {"header"}>Our 2026 - 2027 Executive Board</h1>
             <div className={"mainSection"}>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/skye,jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/skye.jpeg"} alt = " "/>
                     <h1 className = "boardTitle">President</h1>
                     <h1 className = "boardName">Skye Charisma Garces</h1>
                 </div>
@@ -98,7 +98,7 @@ function Board() {
                 <div className={"boardContainer"}>
                     <img src={"../images/board_photos/tim_photo.JPG"} alt = " "/>
                     <h1 className = "boardTitle">VP of Professional Development</h1>
-                    <h1 className = "boardName">Thomas Nguyen</h1>
+                    <h1 className = "boardName">Thomas Park</h1>
                 </div>
                 <div className={"boardContainer"}>
                     <img src={"../images/board_photos/ryan_photo.JPG"} alt = " "/>

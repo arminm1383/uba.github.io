@@ -36,32 +36,32 @@ function Board() {
             <h1 className = {"header"}>Our 2026 - 2027 Executive Board</h1>
             <div className={"mainSection"}>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/skye.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/skye.png"} alt = " "/>
                     <h1 className = "boardTitle">President</h1>
                     <h1 className = "boardName">Skye Charisma Garces</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/maddie.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/maddie.png"} alt = " "/>
                     <h1 className = "boardTitle">Executive Vice President</h1>
                     <h1 className = "boardName">Madeleine Chen</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/ryan_pang_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/tony.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Administration</h1>
                     <h1 className = "boardName">Anthony Rodriguez</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/matthew_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/ujin.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Company Relations</h1>
                     <h1 className = "boardName">Enkh-Ujin Munkhbaatar</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/kakeru.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/kakeru.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Company Relations</h1>
                     <h1 className = "boardName">Kakeru Hirano</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/kaylee.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/kaylee.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Company Relations</h1>
                     <h1 className = "boardName">Kaylee Colorado</h1>
                 </div>
@@ -71,17 +71,17 @@ function Board() {
                     <h1 className = "boardName">Lana Higa</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/ian.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/ian.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Internal Relations</h1>
                     <h1 className = "boardName">Ian Shone</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/lucy.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/lucy.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Internal Relations</h1>
                     <h1 className = "boardName">Lucy Luu</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/skye_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/robyn.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Marketing</h1>
                     <h1 className = "boardName">Robyn Henson</h1>
                 </div>
@@ -91,22 +91,22 @@ function Board() {
                     <h1 className = "boardName">Brody Nguyen</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/sarah.jpeg"} alt = " "/>
+                    <img src={"../images/board_photos/sara.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Marketing</h1>
                     <h1 className = "boardName">Sara Freestone</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/tim_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/thomas.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Professional Development</h1>
                     <h1 className = "boardName">Thomas Park</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/ryan_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/tanya.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Professional Development</h1>
                     <h1 className = "boardName">Tanya Banerjee</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/jack_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/zander.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Finance</h1>
                     <h1 className = "boardName">Alexander Myong</h1>
                 </div>

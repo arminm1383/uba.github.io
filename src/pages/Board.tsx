@@ -66,7 +66,7 @@ function Board() {
                     <h1 className = "boardName">Kaylee Colorado</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/armin_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/lana.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Internal Relations</h1>
                     <h1 className = "boardName">Lana Higa</h1>
                 </div>
@@ -86,7 +86,7 @@ function Board() {
                     <h1 className = "boardName">Robyn Henson</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/keili_photo.JPG"} alt = " "/>
+                    <img src={"../images/board_photos/brody.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Marketing</h1>
                     <h1 className = "boardName">Brody Nguyen</h1>
                 </div>
@@ -106,7 +106,7 @@ function Board() {
                     <h1 className = "boardName">Tanya Banerjee</h1>
                 </div>
                 <div className={"boardContainer"}>
-                    <img src={"../images/board_photos/zander.png"} alt = " "/>
+                    <img src={"../images/board_photos/xander.png"} alt = " "/>
                     <h1 className = "boardTitle">VP of Finance</h1>
                     <h1 className = "boardName">Alexander Myong</h1>
                 </div>

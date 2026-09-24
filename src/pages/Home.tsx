@@ -81,7 +81,7 @@ function Home () {
             </motion.div>
             <div className={"moreInfo"}>
                 <Cards
-                    frontContent={"/images/about_container.png"}
+                    frontContent={"/images/about_polaroid.png"}
                     cardType={"about"}/>
                 <Cards
                     frontContent={"/images/events_polaroid.png"}

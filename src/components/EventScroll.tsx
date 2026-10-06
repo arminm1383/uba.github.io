@@ -34,7 +34,7 @@ function EventScroll() {
     const eventArray: Event[] = [
         {name: "Big Four Accounting Panel", image: '../images/fall/wk2_panel.png', description: "Week 2", alt: "Artwork for Big Four Accounting Panel"},
         {name: "Mentor & Mentee Social", image: '../images/fall/mentorship_social.png', description: "Week 1", alt: "Artwork for Mentor $ Mentee Social"},
-        {name: "Week One Social", image: '../images/fall/swk1_social.png', description: "Week 1", alt: "Artwork for Week One Social"},
+        {name: "Week One Social", image: '../images/fall/wk1_social.png', description: "Week 1", alt: "Artwork for Week One Social"},
     ]
 
     const visibleCards = [

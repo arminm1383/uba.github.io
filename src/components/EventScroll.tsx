@@ -32,11 +32,11 @@ function EventScroll() {
     const [prevIndex, setPrevIndex] = useState(0);
 
     const eventArray: Event[] = [
+        {name: "Midterm Study Session", image: '../images/fall/wk5_study.jpg', description: "Week 2", alt: "Artwork for Midterm Study Session"},
+        {name: "Marketing Portfolio Worshop", image: '../images/fall/wk4_marketing.jpg', description: "Week 4", alt: "Artwork for Marketing Portfolio Worjshop"},
+        {name: "Introduction to Industries Panel", image: '../images/fall/wk3_panel.png', description: "Week 3", alt: "Artwork for Introduction to Industties Panel"},
         {name: "Big Four Accounting Panel", image: '../images/fall/wk2_panel.png', description: "Week 2", alt: "Artwork for Big Four Accounting Panel"},
-        {name: "Mentor & Mentee Social", image: '../images/fall/mentorship_social.png', description: "Week 1", alt: "Artwork for Mentor $ Mentee Social"},
-        {name: "Week One Social", image: '../images/fall/wk1_social.png', description: "Week 1", alt: "Artwork for Week One Social"},
-        {name: "Big Four Accounting Panel", image: '../images/fall/wk2_panel.png', description: "Week 2", alt: "Artwork for Big Four Accounting Panel"},
-        {name: "Mentor & Mentee Social", image: '../images/fall/mentorship_social.png', description: "Week 1", alt: "Artwork for Mentor $ Mentee Social"},
+        {name: "Mentor & Mentee Social", image: '../images/fall/mentorship_social.png', description: "Week 1", alt: "Artwork for Mentor & Mentee Social"},
         {name: "Week One Social", image: '../images/fall/wk1_social.png', description: "Week 1", alt: "Artwork for Week One Social"},
     ]
 

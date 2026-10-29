@@ -52,7 +52,7 @@ function About() {
                 </div>
 
                 <div className="aboutRow">
-                    <img src="/images/intro_to_industries.JPG" className="aboutImage" alt="Aspiring" />
+                    <img src="/images/intro_to_industries.png" className="aboutImage" alt="Aspiring" />
                     <div className="aboutText">
                         <h2 className="aboutTitle">Aspiring</h2>
                         <p className="aboutBody">Driven by our passionate team of board members and interns, we are constantly innovating the way we interact with students. Whether it be new programs like our resume workshops or collaborative events with clubs across all different industries, UBA consistently drives towards expanding our connection with the community around us.</p>
